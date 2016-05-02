@@ -1,7 +1,7 @@
 name: VI Systems
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7048185726162046
+typography_spectrum: 0.76389
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.846261888043955
+  brandStrength: 0.8125
   lightness: 0.12542535248212516
   saturation: 0.41095743188634515
   rhythmicContrast: 0.45772210671566427
